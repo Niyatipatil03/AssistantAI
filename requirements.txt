@@ -1,0 +1,20 @@
+# List of requirements
+streamlit
+pandas
+scikit-learn
+openai
+openai-whisper
+speechrecognition
+pyttsx3
+gtts
+googletrans==4.0.0rc1
+streamlit-audiorecorder
+streamlit-webrtc
+altair
+torch
+torchaudio
+transformers
+groq
+python-dotenv
+SpeechRecognition
+pyttsx3
